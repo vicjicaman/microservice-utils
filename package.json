@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/microservice-utils",
-  "version": "1.70.0-home-info-prod",
+  "version": "1.70.0-master",
   "description": "Service utils",
   "main": "dist/index.js",
   "repository": "github.com:vicjicaman/microservice-utils.git",
